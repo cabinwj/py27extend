@@ -1,5 +1,4 @@
-#include "cwj_py27method.h"
-
+#include "test_py27method.h"
 #include <vector>
 
 PyObject* add_money_ex(PyObject* self, PyObject* args)

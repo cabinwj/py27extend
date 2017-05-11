@@ -1,5 +1,5 @@
-#ifndef _CWJ_PY27METHOD_H_
-#define _CWJ_PY27METHOD_H_
+#ifndef _TEST_PY27METHOD_H_
+#define _TEST_PY27METHOD_H_
 
 #include "cwj_py27embed.h"
 

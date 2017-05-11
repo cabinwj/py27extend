@@ -1,7 +1,6 @@
 #include "cwj_py27embed.h"
-#include "cwj_py27method.h"
-
 #include <Python.h>
+#include "test_py27method.h"
 
 // test c++ call python sample
 int main(int argc, char* argv[])
